@@ -1,6 +1,6 @@
 Project Management System
 ------------------------------------------------
-Fields: projectTitle, clientName, deadline (date), status, notes, image
+Fields: projectTitle, clientName, notes, image
 
 How to run:
 1. unzip or open this folder in your terminal
